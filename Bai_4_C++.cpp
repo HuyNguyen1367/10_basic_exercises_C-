@@ -1,8 +1,8 @@
 /*
-    Bài 4 : 
-    Tạo một lớp động vật với các thuộc tính tên, tuổi và trọng lượng, và các
-    phương thức để tính chỉ số BMI, so sánh tuổi và trọng lượng của các
-    động vật khác nhau
+* File: Bai_4_C++.cpp
+* Author: Huy Nguyen
+* Date: 15/04/2023
+* Description: This is file for animal
 */
 
 #include <stdio.h>
