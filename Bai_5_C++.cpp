@@ -1,5 +1,8 @@
-/*Tạo một lớp người với các thuộc tính tên, tuổi và địa chỉ, và các
-phương thức để in thông tin của người đó và tính tuổi của người đó.
+/*
+* File: Bai_5_C++.cpp
+* Author: Huy Nguyen
+* Date: 15/04/2023
+* Description: This is file for person
 */
 
 #include <stdio.h>
