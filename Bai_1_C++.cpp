@@ -1,8 +1,8 @@
 /*
-    Bài 1 : 
-    Tạo một lớp điểm trong hệ tọa độ 2D và viết các phương thức để tính
-    khoảng cách giữa hai điểm, tính diện tích của tam giác được tạo bởi ba
-    điểm
+* File: Bai_1_C++.cpp
+* Author: Huy Nguyen
+* Date: 31/03/2023
+* Description: This is file for calculate distance and area of triangle in 2D Space
 */
 
 #include<stdint.h>
