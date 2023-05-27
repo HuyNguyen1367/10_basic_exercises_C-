@@ -1,7 +1,8 @@
 /*
-    Bài 3 :
-    Tạo một lớp hình tròn với bán kính và các phương thức để tính chu vi
-    và diện tích của hình tròn.
+* File: Bai_3_C++.cpp
+* Author: Huy Nguyen
+* Date: 01/04/2023
+* Description: This is file for circle
 */
 
 #include <stdio.h>
