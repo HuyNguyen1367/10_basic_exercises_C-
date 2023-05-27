@@ -1,8 +1,8 @@
 /*
-    Bài 2 :
-    Tạo một lớp hình chữ nhật với các thuộc tính chiều dài, chiều rộng và
-    các phương thức để tính chu vi, diện tích, đường chéo và kiểm tra xem
-    nó có phải là hình vuông hay không.
+* File: Bai_2_C++.cpp
+* Author: Huy Nguyen
+* Date: 01/04/2023
+* Description: This is the file for calculating the area and perimeter of the rectangle
 */
 
 #include <stdio.h>
